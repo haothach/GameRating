@@ -2,8 +2,8 @@
 This project builds a complete pipeline for collecting, cleaning, transforming, and visualizing video game data using the **RAWG API**.
 
 **The end goal of the project is to:**
-- 📊 **Visualize key insights** using **Power BI**
-- 💻 **Interact with the predictive model** through a user-friendly **Streamlit** web application
+-  **Visualize key insights** using **Power BI**
+-  **Interact with the predictive model** through a user-friendly **Streamlit** web application
 
 **The data pipeline utilizes:**
 - **RAWG** as the data source  
