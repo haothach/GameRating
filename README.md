@@ -34,7 +34,7 @@ Build a machine learning model capable of predicting user ratings for video game
 
 To launch the interactive Streamlit dashboard:
 
-1. Open the `gamedashboard/` directory
+1. Open the `game_dashboard/` directory
 2. Install required packages:
 ```
 pip install -r requirements.txt
