@@ -1,4 +1,4 @@
-# Game Data Pipeline Project
+#  Predictive Modeling and Data Analysis for Game Ratings
 This project builds a complete pipeline for collecting, cleaning, transforming, and visualizing video game data using the **RAWG API**.
 
 **The end goal of the project is to:**
