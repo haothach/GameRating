@@ -31,6 +31,8 @@ This project builds a complete pipeline for collecting, cleaning, transforming, 
 
 ## Run the Interactive Dashboard (Streamlit)
 
+![Dashboard Overview](https://res.cloudinary.com/dnoubiojc/image/upload/v1754236310/Screenshot_2025-08-03_225056_yfp44t.png)
+
 To launch the interactive Streamlit dashboard:
 
 1. Open the `gamedashboard/` directory
