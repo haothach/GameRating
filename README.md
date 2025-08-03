@@ -9,7 +9,7 @@ Build a machine learning model capable of predicting user ratings for video game
 - **Google Cloud Storage (GCS)** as the data lake  
 - **Google BigQuery (GBQ)** as the data warehouse
 
-![Data Pipeline Overview](https://res.cloudinary.com/dnoubiojc/image/upload/v1754229819/Untitled_Diagram.drawio_1_yzyro9.png)
+![Data Pipeline Overview](https://res.cloudinary.com/dnoubiojc/image/upload/v1754237829/Screenshot_2025-08-03_231555_odl1ck.png)
 
 ## How to run
 **Option 1: Run immediately using preprocessed data**
