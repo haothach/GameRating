@@ -1,8 +1,7 @@
 #  Predictive Modeling and Data Analysis for Game Ratings
 This project builds a complete pipeline for collecting, cleaning, transforming, and visualizing video game data using the **RAWG API**.
 
-**The end goal of the project is to:**
-Build a machine learning model capable of predicting user ratings for video games using data from RAWG.
+**The end goal of the project is to** build a machine learning model capable of predicting user ratings for video games using data collected from the RAWG API, while also performing in-depth data analysis to uncover meaningful insights about player preferences, game popularity trends, and key features that influence user ratings.
 
 **The data pipeline utilizes:**
 - **RAWG** as the data source  
