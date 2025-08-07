@@ -1,16 +1,14 @@
 #  Predictive Modeling and Data Analysis for Game Ratings
 This project builds a complete pipeline for collecting, cleaning, transforming, and visualizing video game data using the **RAWG API**.
 
-**The end goal of the project is to:**
--  **Visualize key insights** using **Power BI**
--  **Interact with the predictive model** through a user-friendly **Streamlit** web application
+**The end goal of the project is to** build a machine learning model capable of predicting user ratings for video games using data collected from the RAWG API, while also performing in-depth data analysis to uncover meaningful insights about player preferences, game popularity trends, and key features that influence user ratings.
 
 **The data pipeline utilizes:**
 - **RAWG** as the data source  
 - **Google Cloud Storage (GCS)** as the data lake  
 - **Google BigQuery (GBQ)** as the data warehouse
 
-![Data Pipeline Overview](https://res.cloudinary.com/dnoubiojc/image/upload/v1754229819/Untitled_Diagram.drawio_1_yzyro9.png)
+![Data Pipeline Overview](https://res.cloudinary.com/dnoubiojc/image/upload/v1754237829/Screenshot_2025-08-03_231555_odl1ck.png)
 
 ## How to run
 **Option 1: Run immediately using preprocessed data**
@@ -35,7 +33,7 @@ This project builds a complete pipeline for collecting, cleaning, transforming, 
 
 To launch the interactive Streamlit dashboard:
 
-1. Open the `gamedashboard/` directory
+1. Open the `game_dashboard/` directory
 2. Install required packages:
 ```
 pip install -r requirements.txt
